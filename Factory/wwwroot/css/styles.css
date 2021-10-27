@@ -1,0 +1,12 @@
+div#bigBox {
+  width: 95%;
+  height: 90%;
+  background-color: rgb(160, 202, 241);
+  border: 10px solid rgb(19, 18, 18);
+  margin: 10px;
+  padding: 10px;
+  font-family: verdana;
+  color: rgb(224, 114, 114);
+  border-radius: 10px;
+  text-align: center;
+}
